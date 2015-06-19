@@ -2,7 +2,9 @@ Ocomon - Service Desk
 =====================
 
 Nova UI(*User interface*) para o Ocomon - Sistema de monitoramento e gerenciamento de ocorrências.
-![Ocomon by Bruno Rodrigues][1]
+Baseado na Versão do service-desk de Bruno Rodrigues
+![Ocomon by Daniel Souza][1]
+![Ocomon by Daniel Souza][2]
 
 ## O Projeto
 Site oficial do projeto: http://ocomonphp.sourceforge.net/
@@ -13,4 +15,5 @@ Site oficial do projeto: http://ocomonphp.sourceforge.net/
 ## Licença
 Licença GPL
 
-  [1]: http://i.imgur.com/2mGCQkr.jpg
+  [1]: http://www.yiptelecom.com.br/image01.png
+  [2]: http://www.yiptelecom.com.br/image02.png
